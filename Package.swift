@@ -1,5 +1,4 @@
 // swift-tools-version:5.2
-// The swift-tools-version declares the minimum version of Swift required to build this package.
 //    Copyright 2016 Swift Studies
 //
 //    Licensed under the Apache License, Version 2.0 (the "License");
